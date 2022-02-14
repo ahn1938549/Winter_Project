@@ -2,7 +2,7 @@
 
 도서관 분류 작업을 위한 알고리즘이 필요하다고 생각하여 기획하였음
 현재 캡스톤으로 도서관 라벨 관리 기기를 만들 예정
-
+![image] [http://m.siwonconsulting.co.kr/web/product/big/20.jpg]
 
 ## DataSet
 
@@ -11,6 +11,7 @@
 
 ## Model
 
+영어와의 차이 때문에 한국어 모델을 사용할 필요가 있다. 
 
 
 
