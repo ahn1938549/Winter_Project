@@ -7,12 +7,11 @@
 ## DataSet
 
 국립도서관 Open Dataset
-![Link] [https://lod.nl.go.kr/home/about/datadownload.jsp]
+![Link] [https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=63513d7b-9b87-4ec1-a398-0a18ecc45411]
 
 ## Model
 
-LSTM(자연어 처리 모델)
-특정 단어만을 추출, 토큰화를 사용하여 각 단어에 가중치 부여 
+
 
 
 ## 최종목표
