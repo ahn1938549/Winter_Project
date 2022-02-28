@@ -3,6 +3,7 @@
 도서관 분류 작업을 위한 알고리즘이 필요하다고 생각하여 기획하였음
 현재 캡스톤으로 도서관 라벨 관리 기기를 만들 예정
 ![디자인2](https://user-images.githubusercontent.com/69898343/153860306-59075914-2293-4d05-b2f9-520574a2344c.png)
+![qweww](https://user-images.githubusercontent.com/69898343/155981143-40c8e59a-dde9-4a52-b427-761e4f899b0e.png)
 
 
 ## DataSet
@@ -12,7 +13,7 @@
 
 ## Model
 
-영어와의 차이 때문에 한국어 모델을 사용할 필요가 있다. LSTM, Dense
+LSTM, Dense
 
 
 
