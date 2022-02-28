@@ -23,6 +23,7 @@ LSTM, Dense
 ## 최종목표
 
 책 제목에 따라 자연과학, 인문 등의 분류를 나누어 라벨링에 활용하도록 할 예정
+![image](https://user-images.githubusercontent.com/69898343/155983527-9985bfb3-aaab-4c94-9947-3c311b50959e.png)
 
 
 
