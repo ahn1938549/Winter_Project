@@ -12,7 +12,7 @@
 10개의 라벨
 
 국립도서관 Open Dataset
-![Link] [https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=63513d7b-9b87-4ec1-a398-0a18ecc45411]
+[https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=63513d7b-9b87-4ec1-a398-0a18ecc45411]
 
 ## Model
 
